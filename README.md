@@ -98,7 +98,7 @@ CafeShop.sln
 5. Open `Database/CafeShopDB.sql`, paste contents, click **Execute**
 6. You should see: *"CafeShopDB created and seeded successfully."*
 
-### Step 2 — Fix the Connection String
+### Step 2 — Fix the Connection Strings
 
 Open `App.WindowsApp/App.config` and update the `Server=` value:
 
